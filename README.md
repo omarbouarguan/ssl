@@ -42,7 +42,7 @@ Le code suppose un fichier CSV (`arp_train_dataset.csv`) contenant des paquets A
 
 1.  Clonez ce dépôt :
     ```bash
-    git clone https://github.com/omarbouarguan/ssl/
+    git clone https://github.com/omarbouarguan/ssl.git
     cd ssl
     ```
 2.  Créez un environnement virtuel (recommandé) :
